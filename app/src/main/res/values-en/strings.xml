@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculation of IMC</string>
+    <string name="altura">Height</string>
+    <string name="peso">weight</string>
+    <string name="imcds">"Imc is "</string>
+    <string name="delgs">" thinness Severe"</string>
+    <string name="delga">" thinness acceptable"</string>
+    <string name="delgn">" normal weight"</string>
+    <string name="delgm">" thinness Moderate"</string>
+    <string name="sobrepeso">overweight</string>
+    <string name="obt1">obese:  Type 1</string>
+    <string name="obt2">obese:  Type 2</string>
+    <string name="obt3">obese:  Type 3</string>
+    <string name="imcda">"Imc is "</string>
+    <string name="imcdm">"Imc is "</string>
+    <string name="imcdn">"Imc is "</string>
+    <string name="imcsp">"Imc is "</string>
+    <string name="acerca_de">About</string>
+    <string name="calculo">" Calculate"</string>
+    <string name="salir">Get out</string>
+    <string name="acercad">About</string>
+    <string name="calcular_imc">calculate IMC</string>
+    <string name="indice_masa_corporal">Body Mass Index</string>
+    <string name="app_original_aut_ntico_verificado_por_android_by_google">© App Original  authentic® █║▌│█│║▌║││█║▌║▌║ Verified by: Android by google</string>
+    <string name="aplicacion_desarrollada_para_el_calculo_de_indice_de_masa_corporal">" Application developed for the calculation of body mass index."</string>
+    <string name="autor_fernando_suarez">Author : Fernando Suarez</string>
+    <string name="historial">Historical</string>
+    <string name="regresar">return</string>
+    <string name="historialtv">Historical</string>
+    <string name="estaturah">"Height: "</string>
+    <string name="fechah">"Date: "</string>
+    <string name="pesoh">"weight : "</string>
+    <string name="datosg">" Data saved"</string>
+    <string name="datosgrabados">"Data was saved "</string>
+</resources>

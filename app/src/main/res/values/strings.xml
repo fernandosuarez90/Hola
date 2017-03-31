@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calculo de IMC</string>
+    <string name="peso">"    peso :       "</string>
+    <string name="altura">"      altura:         "</string>
+    <string name="imcds">\" Su IMC es:  \"</string>
+    <string name="delgs">"  Delgadez severa"</string>
+    <string name="delgm">"   Delgadez moderada"</string>
+    <string name="delga">"  Delgadez aceptable"</string>
+    <string name="delgn">"  peso es normal"</string>
+    <string name="sobrepeso">" sobrepeso"</string>
+    <string name="obt1">Obeso : tipo 1</string>
+    <string name="obt2">Obeso : tipo 2</string>
+    <string name="obt3">Obeso : tipo 3</string>
+    <string name="imcdm">"Su IMC es: "</string>
+    <string name="imcda">\"Su IMC es:  \"</string>
+    <string name="imcdn">"Su IMC es: "</string>
+    <string name="imcsp">"Su IMC es: "</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="calculo">Calculo</string>
+    <string name="salir">Salir</string>
+    <string name="acercad">Acerca de:</string>
+    <string name="calcular_imc">CALCULAR IMC</string>
+    <string name="indice_masa_corporal">INDICE MASA CORPORAL</string>
+    <string name="app_original_aut_ntico_verificado_por_android_by_google">© App Original Auténtico® █║▌│█│║▌║││█║▌║▌║ Verificado por: Android by google</string>
+    <string name="aplicacion_desarrollada_para_el_calculo_de_indice_de_masa_corporal">Aplicacion desarrollada para el calculo de indice de masa corporal.</string>
+    <string name="autor_fernando_suarez">Autor : Fernando Suarez</string>
+    <string name="historial">historial</string>
+    <string name="regresar">Regresar</string>
+    <string name="historialtv">Historial</string>
+    <string name="fechah">"Fecha: "</string>
+    <string name="pesoh">"Peso: "</string>
+    <string name="estaturah">"Estatura: "</string>
+    <string name="datosg">datos grabados</string>
+    <string name="datosgrabados">Los datos fueron grabados</string>
+
+
+</resources>
